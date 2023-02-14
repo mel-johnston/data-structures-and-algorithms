@@ -20,4 +20,4 @@ To run your tests
 
 ### 401 Data Structures, Code Challenges
 
-- [Code Challenge 01 - Array Reverse](https://mel-johnston.github.io/data-structures-and-algorithms/challenge-01/challenge-01)
+- [Code Challenge 01 - Array Reverse](https://mel-johnston.github.io/data-structures-and-algorithms/challenge-01/)
